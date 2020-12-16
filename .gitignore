@@ -1,0 +1,9 @@
+*.csv
+
+*train.pth
+*.pyc
+*.ipynb_checkpoints
+__pycache__
+
+/model_trainning/models/*.pth
+model_trainning/__pycache__/*.pyc
